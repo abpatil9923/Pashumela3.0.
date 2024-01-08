@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "twilio",
+      "type": "com.pashumela.authenticationservice.configurations.TwilioConfig",
+      "sourceType": "com.pashumela.authenticationservice.configurations.TwilioConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "twilio.account-sid",
+      "type": "java.lang.String",
+      "sourceType": "com.pashumela.authenticationservice.configurations.TwilioConfig"
+    },
+    {
+      "name": "twilio.auth-token",
+      "type": "java.lang.String",
+      "sourceType": "com.pashumela.authenticationservice.configurations.TwilioConfig"
+    },
+    {
+      "name": "twilio.phone-number",
+      "type": "java.lang.String",
+      "sourceType": "com.pashumela.authenticationservice.configurations.TwilioConfig"
+    }
+  ],
+  "hints": []
+}
